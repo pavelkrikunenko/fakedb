@@ -1,8 +1,28 @@
 {
-  "posts":[
-    {"id":1,
-          "title":'fake_title',
-          "text":'fake_text',
-          "author":'fake_author'}
+  "postssss":[
+          {
+          "id":1,
+          "title":"fake_title",
+          "text":"fake_text",
+          "author":"fake_author"
+          },
+          {
+            "id":2,
+            "title":"fake_title",
+            "text":"fake_text",
+            "author":"fake_author"
+          },
+          {
+            "id":3,
+            "title":"fake_title",
+            "text":"fake_text",
+            "author":"fake_author"
+          },
+          {
+            "id":4,
+            "title":"fake_title",
+            "text":"fake_text",
+            "author":"fake_author"
+          }
   ]
 }

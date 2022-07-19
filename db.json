@@ -1,7 +1,8 @@
 {
   "posts":[
+          "id":1,
           "title":"fake_title",
           "text":"fake_text",
           "author":"fake_author"
   ]
-  }
+}
